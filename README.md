@@ -69,4 +69,4 @@ Integrate into your automation pipeline using cron or Ansible:
 
 ## License
 
-This script is provided under the AGPL 2.0 License. See LICENSE file for details.
+This script is provided under the AGPL 3.0 License. See LICENSE file for details.
